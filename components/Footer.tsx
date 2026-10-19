@@ -16,8 +16,10 @@ export default function Footer() {
           <Link href="/about">About Us</Link>
           <Link href="/contact">Contact</Link>
           <Link href="/privacy">Privacy</Link>
+          <Link href="/cookie-policy">Cookie Policy</Link>
           <Link href="/terms">Terms</Link>
           <Link href="/disclaimer">Disclaimer</Link>
+          <Link href="/dmca">DMCA</Link>
         </nav>
       </div>
     </footer>

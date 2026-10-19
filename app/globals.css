@@ -248,6 +248,8 @@ img { display: block; max-width: 100%; }
 .prose { max-width: 780px; padding: 28px; }
 .prose h2 { margin: 24px 0 8px; font-size: 1.1rem; font-weight: 900; text-transform: uppercase; }
 .prose h2:first-child { margin-top: 0; }
+.prose ul { margin: 0 0 12px; padding-left: 22px; }
+.prose li { margin-bottom: 6px; }
 .form { display: grid; gap: 14px; }
 .form label { display: grid; gap: 6px; font-size: 0.85rem; font-weight: 800; text-transform: uppercase; }
 .form input, .form textarea { padding: 12px; font: inherit; border: var(--line); background: var(--bg); }
